@@ -8,6 +8,7 @@ source 'https://rubygems.org'
 
 gem 'rails',        '4.2.3'
 gem 'sass-rails',   '5.0.3'
+gem 'bootstrap-sass', '3.2.0.2'
 gem 'uglifier',     '2.5.3'
 gem 'coffee-rails', '4.1.0'
 gem 'jquery-rails', '4.0.3'
